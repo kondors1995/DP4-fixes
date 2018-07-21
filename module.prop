@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=MidoDP4fix
+name=Mido DP4 fix
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=NATO66613
+description=This module includes multiple fixes for Semi GSI DP4
 minMagisk=1500
